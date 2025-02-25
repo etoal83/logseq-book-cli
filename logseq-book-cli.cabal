@@ -1,4 +1,4 @@
-cabal-version:      2.4
+cabal-version:      3.12.1.0
 name:               logseq-book-cli
 version:            0.1.0.0
 synopsis:           A utility tool to manage book information in Logseq
